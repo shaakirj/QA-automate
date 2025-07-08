@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+.env
+
+# Test Artifacts
+screenshots/
+reports/
+test-results/
+
+# OS
+.DS_Store
+
+# Logs
+npm-debug.log*
